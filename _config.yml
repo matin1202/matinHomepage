@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Matin"
 description              : "An amazing website."
-url                      : "https://matinHomepage.github.io"
+url                      : "https://matin1202.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/b"
 repository               : #"mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
